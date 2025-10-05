@@ -32,7 +32,7 @@ const FollowersPage = () => {
                                     <ProfileLink key={follower.id} user={{ _id: follower.id, role: 'player' }}>
                                         <ListItemButton>
                                             <ListItemAvatar><Avatar src={follower.avatar} /></ListItemAvatar>
-                                            <ListItemText primary={follower.name} />
+                                            <ListItemText primary={follower.firstName} />
                                         </ListItemButton>
                                     </ProfileLink>
                                 ))}
