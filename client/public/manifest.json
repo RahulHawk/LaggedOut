@@ -1,0 +1,21 @@
+{
+  "name": "LaggedOut",
+  "short_name": "LaggedOut",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1b2838",
+  "theme_color": "#1b2838",
+  "description": "For the players who always blames the Ping",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
