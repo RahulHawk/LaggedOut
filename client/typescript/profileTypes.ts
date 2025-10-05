@@ -38,6 +38,7 @@ export interface MyProfileData {
   id: string;
   firstName: string;
   lastName: string;
+  email: string;
   displayName: string;
   fullName: string;
   role: string;
